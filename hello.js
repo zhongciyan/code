@@ -1,3 +1,7 @@
 console.log('你好，我是王枕流')
 console.log('这是我的第一个程序')
 console.log(10*5)
+console.log(10/3)
+console.log('我'+'是'+'王忱流')
+console.log(2>1)
+console.log('abc'.length)
