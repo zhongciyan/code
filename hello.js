@@ -1,8 +1,8 @@
-console.log('你好，我是王枕流')
-console.log('这是我的第一个程序')
-console.log(10*5)
-console.log(10/3)
-console.log('我'+'是'+'王忱流')
-console.log(2>1)
-console.log('abc'.length)
-console.log('我改的')
+let price=10
+let count=5
+let name='steuen'
+
+console.log(price*count)
+console.log("I`m"+name)
+console.log(price>count)
+console.log(name.length)
